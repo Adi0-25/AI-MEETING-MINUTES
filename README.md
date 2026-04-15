@@ -4,7 +4,7 @@
 
 ---
 
-## 📁 Folder Structure
+## Folder Structure
 
 ```
 Submission/
@@ -36,7 +36,7 @@ Submission/
 
 ---
 
-## 🚀 How to Run the Application
+##  How to Run the Application
 
 ### Prerequisites
 - Python 3.9+
@@ -63,7 +63,7 @@ Open **http://localhost:5000** in your browser.
 
 ---
 
-## 🤖 Tech Stack
+##  Tech Stack
 
 | Component | Technology |
 |---|---|
